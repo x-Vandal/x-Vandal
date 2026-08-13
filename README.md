@@ -10,7 +10,7 @@ I am a hobby developer specializing in **building Discord bots and backend syste
   
 :lock: *Note: Most of my repositories are kept private to protect client source code, intellectual property, and proprietary backend logic.* 
 
-### :tools: Technologies & Tools
+### ⚒️ Technologies & Tools
 
 * **Coding & Bots:** Python (Discord.py)
 * **Backend & Web Infrastructure:** Flask, Nginx
