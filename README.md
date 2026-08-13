@@ -4,7 +4,7 @@ I am a hobby developer specializing in **building Discord bots and backend syste
 
 ### :rocket: Projects
 
-* :tools: **[GuildProBot](https://guildprobot.com)** – My largest private project. An advanced bot built for professional Gamers for their  Discord server management and automation.
+* ⚒️ **[GuildProBot](https://guildprobot.com)** – My largest private project. An advanced bot built for professional Gamers for their  Discord server management and automation.
 * :gear: **Custom Administration Bots** – Multiple tailored bots developed for private Discord servers. Built with custom features based on specific requests to streamline community moderation and utility.
 * :bar_chart: **CoD SnapStat** *[Archived / On Hold]* – A specialized community bot for *Call of Dragons*. It automated player profile data collection using OCR, parsed it into a database, and streamlined alliance statistics.
   
